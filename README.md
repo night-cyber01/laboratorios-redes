@@ -24,3 +24,4 @@ Se utilizaron las siguientes herramientas para la enumeración de red:
 ## 🛡️ Recomendaciones
 * **Seguridad SSH:** El puerto 22 está expuesto a internet, lo cual facilita ataques de fuerza bruta. Se recomienda implementar autenticación basada en claves (SSH keys) y deshabilitar el acceso mediante contraseña para proteger la confidencialidad e integridad del sistema.
 * **Mantenimiento:** Apache 2.4.7 es una versión antigua. Se recomienda verificar parches de seguridad o actualizar a una versión estable soportada para mitigar posibles vulnerabilidades conocidas.
+# Linux-bandit-wargames
